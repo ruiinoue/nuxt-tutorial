@@ -4,7 +4,7 @@
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm install # Or yarn install
 
@@ -22,3 +22,11 @@ $ npm run generate
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
 # nuxt-tutorial
+
+- プロジェクトの初期化をするためのブランチ
+
+https://github.com/ruiinoue/rails-tutorial/tree/feature/section/ruby-practice
+
+- シンプルアプリケーションの作成のブランチ
+
+https://github.com/ruiinoue/nuxt-tutorial/pull/2
