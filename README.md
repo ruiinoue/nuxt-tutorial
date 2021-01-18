@@ -23,10 +23,8 @@ For detailed explanation on how things work, checkout the [Nuxt.js docs](https:/
 
 # nuxt-tutorial
 
-- プロジェクトの初期化をするためのブランチ
+Nuxt の各種機能の実装をアウトプットしていくブランチです。
 
-https://github.com/ruiinoue/rails-tutorial/tree/feature/section/ruby-practice
+メインブランチ
 
-- シンプルアプリケーションの作成のブランチ
-
-https://github.com/ruiinoue/nuxt-tutorial/pull/2
+https://github.com/ruiinoue/nuxt-tutorial
