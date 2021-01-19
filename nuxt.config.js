@@ -40,5 +40,8 @@ module.exports = {
       'auth',
     ],
   },
+  plugins: [
+    { src: '~/plugins/logger', ssr: true },
+  ],
 }
 
