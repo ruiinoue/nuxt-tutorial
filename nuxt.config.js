@@ -34,6 +34,14 @@ module.exports = {
         })
       }
     }
-  }
+  },
+  router: {
+    middleware: [
+      'auth',
+    ],
+  },
+  plugins: [
+    { src: '~/plugins/logger', ssr: true },
+  ],
 }
 
