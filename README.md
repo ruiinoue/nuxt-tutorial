@@ -40,3 +40,5 @@ https://github.com/ruiinoue/nuxt-tutorial/tree/feature/nuxt-functions
 https://github.com/ruiinoue/nuxt-tutorial/tree/feture/medium-app
 
 - テスティング用のブランチ
+
+https://github.com/ruiinoue/nuxt-tutorial/tree/feature/test
