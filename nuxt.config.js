@@ -35,14 +35,20 @@ module.exports = {
       }
     }
   },
+  modules: [
+    '@nuxtjs/axios'
+  ],
   axios: {
-    baseURL: "https://nuxt-web-app-b7aec-default-rtdb.firebaseio.com/"
+    baseURL: "https://nuxt-web-app-b7aec-default-rtdb.firebaseio.com"
   },
   css: [
     'element-ui/lib/theme-chalk/index.css'
   ],
   plugins: [
     '@/plugins/element-ui'
-  ]
+  ],
+  router: {
+    middleware: ['auth-cookie']
+  }
 }
 
