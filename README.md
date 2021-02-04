@@ -35,6 +35,6 @@ https://github.com/ruiinoue/nuxt-tutorial/tree/feature/simple-app
 
 https://github.com/ruiinoue/nuxt-tutorial/tree/feature/nuxt-functions
 
-- 中規模アプリケーション開発のブランチ
+- 中規模アプリケーション開発のブランチ（優先度低でいったん中止）
 
 https://github.com/ruiinoue/nuxt-tutorial/tree/feture/medium-app
